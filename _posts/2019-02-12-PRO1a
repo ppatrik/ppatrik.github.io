@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Softvérový projekt I."
+categories: [ Jekyll, tutorial ]
+image: assets/images/2.jpg
+featured: true
+author: ppatrik
+---
+# PRO1a Softvérový projekt
+
+## Rozdelenie do tímových projektov
+
+**Training management system**
+
+ - Matúš Revický
+ - Samuel Oswald
+ - **Mentor:** Bocanova, Patricia <Patricia.Bocanova@wincor-nixdorf.com>
+ - **Stav projektu:** 90% 
+
+**Business trip**
+
+ - Pavel Lukačik
+ - Samuel Koprda
+ - Tomáš Hvišč
+ - **Mentor:** Mackovjak, Andrej <Andrej.Mackovjak@wincor-nixdorf.com>
+ - **Stav projektu:** 15%
+
+**CSL - spôsob analýzy netflow údajov**
+
+ - Milan Chrastina
+ - **Mentor:** Patrik Pekarčík
+ - **Stav projektu:** 80%
+
+**Goodbuy - Automatic crawler with upload to production server**
+
+ - Jiří Resler
+ - Štefan Levoča
+ - **Mentor:** Patrik Pekarčík
+ - **Stav projektu:** 70%
+
+## Harmonogram
+
+Stretávame sa 9:40 - 10:40 v miestnosti P/5 pri kreatívnom laboratóriu.
+
+**12.02.2019** - Úvodné stretnutie. Rozdelenie do dvojíc a pridelenie projektov.
+
+**05.03.2019** - Úvod do programovania v javascripte.
+
+**19.03.2019** - Úvod do požívania Gitu v konzole a základné myšlienky gitu. (1. časť) [Prezentácia](20190319/GIT.pdf)
+
+**26.03.2019** - Úvod do požívania Gitu v konzole a základné myšlienky gitu. (2. časť) [Git príkazy](20190326/bash-history.md) [Git branching](https://gitlab.science.upjs.sk/patrik.pekarcik/pro1a-git-branching-example/network/master)
+
+> Vybavte si prístup na študentský server
+
+**02.04.2019** - Opakovanie Gitu a testovanie prikazov a prace s projektom
+
+**09.04.2019** - Nasadenie angular aplikacie na webovy server
+
+**16.04.2019** - Opakovanie nasadenia angular aplikacie - skontrolovanie ssh klucov
+
+**30.04.2019** - Aktuálny stav projektov
+
+**07.05.2019** - Continuous integration - základný princíp nastavenia continuous integration [Výsledná konfigurácia](https://gitlab.science.upjs.sk/patrik.pekarcik/pro1a-git-ssh-copy)
+
+**09.05.2019 7:00 v P/5** - Continuous integration - Cvicenie pre nastavenie CI s automatizovanym kompilovanim a nasadenim Angular aplikacie (Automatizovanie cvicenia z 09.04.2019)
+
+**14.05.2019** - Prezentacie projektov - aktuálny stav
+
