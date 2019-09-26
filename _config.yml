@@ -9,7 +9,7 @@ paginate: 12
 baseurl: '/'
 email: 'patrik.pekarcik@student.upjs.sk'
 google_analytics: 'UA-60611019-13'
-#disqus: 'demowebsite'
+disqus: 'ppatrik'
 #sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
