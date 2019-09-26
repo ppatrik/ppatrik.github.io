@@ -11,4 +11,4 @@ Som doktorand na Ústave informatiky PF UPJŠ, kde som získal magisterský titu
 ## Kontakty
 
 **Kancelária:** SJO019
-**E-mail:** patrik.pekarcik@student.upjs.sk
+**E-mail:** patrik.pekarcik (at) student (dot) upjs (dot) sk
