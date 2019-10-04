@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programovanie v jazyku C - 1. Cvičenie"
+title:  "Programovanie v jazyku C - 3. Cvičenie"
 categories: [ Vyuka, JAC ]
 image: assets/images/1.jpg
 author: ppatrik
