@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Programovanie v jazyku C - 2. Cvičenie"
+title:  "2. Cvičenie - Programovanie v jazyku C"
 categories: [ Vyuka, JAC ]
-image: assets/images/1.jpg
+image: /assets/images/JAC.jpg
 author: ppatrik
 ---
-
-## 2. Cvičenie
 
 ### Rozcvička - Prevodník medzi Fahrenheit a Celsium
 

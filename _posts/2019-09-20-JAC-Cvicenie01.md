@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Programovanie v jazyku C - 1. Cvičenie"
+title:  "1. Cvičenie - Programovanie v jazyku C"
 categories: [ Vyuka, JAC ]
-image: assets/images/1.jpg
+image: /assets/images/JAC.jpg
 author: ppatrik
 ---
-
-## 1. Cvičenie
 
 ### Príprava vývojového prostredia (Windows)
 

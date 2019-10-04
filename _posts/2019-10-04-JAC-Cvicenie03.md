@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Programovanie v jazyku C - 3. Cvičenie"
+title:  "3. Cvičenie - Programovanie v jazyku C"
 categories: [ Vyuka, JAC ]
-image: assets/images/1.jpg
+image: /assets/images/JAC.jpg
 author: ppatrik
 ---
-
-## 3. Cvičenie
 
 Na hodine sme sa venovali hlavičkovým súborom a princípe ich kompilácie a buildovania/linkovania. 
 
