@@ -6,7 +6,7 @@ image: /assets/images/JAC.jpg
 author: ppatrik
 ---
 
-Implementujte v jazyku ANSI C algoritmus BubbleSort (https://en.wikipedia.org/wiki/Bubble_sort). Váš zdrojový kód musí obsahovať funkcie podľa nasl. hlavičkového súboru.
+Implementujte v jazyku ANSI C algoritmus [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort). Váš zdrojový kód musí obsahovať funkcie podľa nasl. hlavičkového súboru.
 
 > Zoradzujete čísla (int) od najmenšieho po najväčšie.
 
