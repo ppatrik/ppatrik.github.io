@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Projekt 1 - Programovanie v jazyku C"
+title:  "1. Projekt - Programovanie v jazyku C"
 categories: [ Vyuka, JAC ]
 image: /assets/images/JAC.jpg
 author: ppatrik
