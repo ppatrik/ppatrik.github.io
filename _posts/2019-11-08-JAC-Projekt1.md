@@ -24,5 +24,5 @@ int[] bubble_sort(int n, int[] input);
 ## Spôsob odovzdania:
 
 Vytvorte repozitár na https://gitlab.science.upjs.sk s menom jac-2019-projekt-1. Repozitár musí obsahovať súbor `program.c` s vašou implementáciou. Tento repozitár mi nazdielate (Settings -> Members) na účet @patrik.pekarcik s minimálnou rolou Reporter. Po vytvorení a nazdielaní repozitára mi zašlite e-mailom informáciu o dokončeni zadania.\
-Vypracovať do 29.11.2019 02:00.
+Vypracovať do 22.11.2019 02:00.
 > Ak ešte nemáte účet na gitlab.science.upjs.sk tak odporúčané používateľské meno je `meno.priezvisko`.
