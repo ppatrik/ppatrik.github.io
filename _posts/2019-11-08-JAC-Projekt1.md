@@ -6,6 +6,10 @@ image: /assets/images/JAC.jpg
 author: ppatrik
 ---
 
+>> Update 14.11.2019: \\
+>> **Zmena:** Boli upravené hlavičky metód. 
+>> **Dôvod:** Pôvodné hlavičky neboli napísané správne.
+
 Implementujte v jazyku ANSI C algoritmus [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort). Váš zdrojový kód musí obsahovať funkcie podľa nasl. hlavičkového súboru.
 
 > Zoradzujete čísla (int) od najmenšieho po najväčšie.
@@ -14,11 +18,11 @@ Implementujte v jazyku ANSI C algoritmus [BubbleSort](https://en.wikipedia.org/w
 
 ```
 # Algoritmus pre overenie či sa vám podarilo správne zoradiť pole
-bool test_sort(int[] input);
+bool test_sort(int n, int input[])
 
 # Algoritmus bubble sort
 void swap(int *a, int *b);
-int[] bubble_sort(int n, int[] input);
+int* bubbleSort(int n, int array[])
 ```
 
 ## Spôsob odovzdania:
