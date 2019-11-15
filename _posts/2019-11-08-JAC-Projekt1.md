@@ -17,12 +17,15 @@ Implementujte v jazyku ANSI C algoritmus [BubbleSort](https://en.wikipedia.org/w
 ## Hlavičkový súbor `progam.h`
 
 ```
-# Algoritmus pre overenie či sa vám podarilo správne zoradiť pole
-bool test_sort(int n, int input[])
+#define TRUE 1
+#define FALSE 0
 
-# Algoritmus bubble sort
+/* Algoritmus pre overenie či sa vám podarilo správne zoradiť pole. Návratová hodnota nech je makro TRUE alebo FALSE. */
+int test_sort(int n, int input[]);
+
+/* Algoritmus bubble sort */
 void swap(int *a, int *b);
-int* bubbleSort(int n, int array[])
+int* bubbleSort(int n, int array[]);
 ```
 
 ## Spôsob odovzdania:
