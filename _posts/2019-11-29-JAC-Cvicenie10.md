@@ -8,7 +8,7 @@ author: ppatrik
 
 Na hodine sme sa venovali existujúcim operátorom v c a pokúsili sme sa ich spoločnými silami zoradiť podľa toho v akom poradí sú spracovávané a vytvorili sme nasledujúcu tabuľku.
 
-| Operátori       |
+| Operátory       |
 |-----------------|
 | `(` `)` `[` `]` `->` `.`      |
 | `!` `~` `++` `--` `+` `-` `*` `&` `(type)` `sizeof` |
