@@ -57,7 +57,7 @@ int open_from_file(char *file_name);
 ## Ukážka spusteného konzolového GUI programu
 
 ```
-Vitajte v malej databovej verzii evidencie studentov 1.9.7.3.
+Vitajte v malej databazovej verzii evidencie studentov 1.9.7.3.
 > h
 Zoznam povolenych akcii:
 - h - zobrazí tieto informácie
