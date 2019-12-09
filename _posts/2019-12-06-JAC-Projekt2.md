@@ -6,7 +6,7 @@ image: /assets/images/JAC.jpg
 author: ppatrik
 ---
 
-Naprogramujte CRUD konzolovú aplikáciu pre evidenciu študentov predmetu. Aplikácia nech pomocou štandardného vstupu komunikuje s používateľom a povolí mu operacie vloženia, upravenia a zmazania študentov. Taktiež nech obsahuje podporu ukladania študentov na disk do súboru a aj načítanie z disku. Program rozdelte do dvoch častí: 
+Naprogramujte CRUD konzolovú aplikáciu pre evidenciu študentov predmetu. Aplikácia nech pomocou štandardného vstupu komunikuje s používateľom a povolí mu operácie vloženia, upravenia a zmazania študentov. Taktiež nech obsahuje podporu ukladania študentov na disk do súboru a aj načítanie z disku. Program rozdeľte do dvoch častí: 
 1. `program.c` - táto časť má obsahovať rozhranie popísané hlavičkovým súborom `program.h` uverejnením nižšie v zadaní.
 2. `main.c` - táto časť má obsahovať konzolové prostredie pomocou, ktorého bude používateľ aktívne vykonávať operácie z `program.h`.
 
@@ -114,13 +114,13 @@ Vypracovať do 24.12.2019 22:00.
 
 ## Spôsob hodnotenia
 
-1. časť (max. 8 bodov)
+1. časť `program.c` (max. 8 bodov)
   - Implementovanie všetkých metód podľa hlavičkového súboru: 1b
   - Implementácia efektívnej databázovej štruktúry: 2b
   - Implementácia CRUD operácií: 3b
   - Návrh štruktúry súboru: 1b
   - Ukladanie do súbora a čítanie zo súbora: 1b
-2. časť (max. 4 bodov)
+2. časť `main.c` (max. 4 bodov)
   - Funkčné GUI: 2b
   - Všetky podporované operácie GUI popísané v helpe: 1b
   - GUI stále vypíše čo má používateľ vložiť (User Experience): 1b
