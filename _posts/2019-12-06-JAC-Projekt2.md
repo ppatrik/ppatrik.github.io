@@ -6,6 +6,8 @@ image: /assets/images/JAC.jpg
 author: ppatrik
 ---
 
+> Update 18.12.2019: \ Zmena: Boli upravené hlavičky metód, zmena na smerníky. \ Dôvod: Pôvodné hlavičky by kopírovali objekty.
+
 Naprogramujte CRUD konzolovú aplikáciu pre evidenciu študentov predmetu. Aplikácia nech pomocou štandardného vstupu komunikuje s používateľom a povolí mu operácie vloženia, upravenia a zmazania študentov. Taktiež nech obsahuje podporu ukladania študentov na disk do súboru a aj načítanie z disku. Program rozdeľte do dvoch častí: 
 1. `program.c` - táto časť má obsahovať rozhranie popísané hlavičkovým súborom `program.h` uverejnením nižšie v zadaní.
 2. `main.c` - táto časť má obsahovať konzolové prostredie pomocou, ktorého bude používateľ aktívne vykonávať operácie z `program.h`.
@@ -38,12 +40,12 @@ void print_table();
  */
 
 /* Pomocna metoda pre ziskanie noveho prazdenho studenta, v ramke */
-Student init_student();
+Student *init_student();
 
 /* CRUD operacie s databazou */
-int add_student(Student student);
-Student get_student(int identifier);
-int update_student(int identifier, Student student); 
+int add_student(Student *student);
+Student *get_student(int identifier);
+int update_student(int identifier, Student *student); 
 int delete_student(int identifier);
 
 /* Doplnkove informacie o databaze */
