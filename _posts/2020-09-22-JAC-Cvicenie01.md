@@ -69,4 +69,4 @@ clean:
     rm prvy.exe
 ```
 
-> Dalsie moznosti Makefile sa dozviete tu https://learnxinyminutes.com/docs/make/
+> Ďalšie možnosti Makefile sa dozviete tu https://learnxinyminutes.com/docs/make/
