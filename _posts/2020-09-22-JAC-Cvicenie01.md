@@ -28,8 +28,45 @@ Následne môžeme otestovať úspešnosť inštalácie
 
 ```
 $ set PATH=C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\mingw32\bin;%PATH%
+
 $ make --version
+GNU Make 3.81
+Copyright (C) 2006  Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+This program built for i686-pc-msys
+
 $ gcc -v
+Using built-in specs.
+COLLECT_GCC=gcc
+COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/8.2.0/lto-wrapper.exe
+Target: mingw32
+Configured with: ../src/gcc-8.2.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-8.2.0-3' --with-gmp=/mingw --with-mpfr=/mingw --with-mpc=/mingw --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --with-isl=/mingw --enable-libgomp --disable-libvtv --enable-nls --disable-build-format-warnings
+Thread model: win32
+gcc version 8.2.0 (MinGW.org GCC-8.2.0-3)
 ```
 
 ### Zdrojový kód z cvičenia
+
+#### prvy.c
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello World\n");
+    return 0;
+}
+```
+
+#### Makefile
+```
+prvy: prvy.c
+    gcc -Wall -o prvy prvy.c
+
+clean:
+    rm prvy.exe
+```
+
+> Dalsie moznosti Makefile sa dozviete tu https://learnxinyminutes.com/docs/make/
