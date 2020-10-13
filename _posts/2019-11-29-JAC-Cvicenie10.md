@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10. Cvičenie - Programovanie v jazyku C"
-categories: [ Vyuka, JAC ]
+categories: [ Vyuka, JAC, ZS2019 ]
 image: /assets/images/JAC.jpg
 author: ppatrik
 ---
