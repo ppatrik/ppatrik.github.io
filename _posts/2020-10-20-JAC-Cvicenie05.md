@@ -8,7 +8,7 @@ author: ppatrik
 
 ### Správa pamäte v ANSI C aplikácii
 
-https://www.youtube.com/watch?v=_8-ht2AKyH4 0:00 - 8:00
+[Pozri video](https://www.youtube.com/watch?v=_8-ht2AKyH4) v čase od 0:00 do 8:00
 
 ### Zdrojové kódy z cvičenia
 
