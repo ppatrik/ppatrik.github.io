@@ -14,7 +14,7 @@ Implementujte v jazyku ANSI C algoritmus [BubbleSort](https://en.wikipedia.org/w
 
 > Zoradzujete čísla (int) od najmenšieho po najväčšie.
 
-## Hlavičkový súbor `progam.h`
+## Hlavičkový súbor `program.h`
 
 ```
 #define TRUE 1
