@@ -89,7 +89,7 @@ clean:
 	rm main.o main.exe
 ```
 
-## Spôsoby spúšťania jednotlivých metňod
+## Spôsoby spúšťania jednotlivých metód
 
 - `main.exe < input.txt` - Namiesto manuálneho vkladania štanardného vstupu vkladáme vstup zo súbora.
 - `main.exe > output.txt` - Výstup z programu je uložený do súboru.
