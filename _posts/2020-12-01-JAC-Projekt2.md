@@ -120,10 +120,12 @@ Vypracovať do 24.12.2020 02:00.
   - Implementácia CRUD operácií: 3b
   - Návrh štruktúry súboru: 1b
   - Ukladanie do súbora a čítanie zo súbora: 1b
+
 2. časť `main.c` (max. 4 bodov)
   - Funkčné GUI: 2b
   - Všetky podporované operácie GUI popísané v helpe: 1b
   - GUI stále vypíše čo má používateľ vložiť (User Experience): 1b
+
 Bonus:
   - Implementácia `sprint_*`: 1b
 
