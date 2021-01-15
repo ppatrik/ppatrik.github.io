@@ -10,7 +10,7 @@ Naprogramujte CRUD konzolovú aplikáciu pre evidenciu študentov predmetu. Apli
 1. `program.c` - táto časť má obsahovať rozhranie popísané hlavičkovým súborom `program.h` uverejnením nižšie v zadaní.
 2. `main.c` - táto časť má obsahovať konzolové prostredie pomocou, ktorého bude používateľ aktívne vykonávať operácie z `program.h`.
 
-## Hlavičkový súbor `progam.h`
+## Hlavičkový súbor `program.h`
 
 > Tento súbor neupravujte, len ho importujte.
 
